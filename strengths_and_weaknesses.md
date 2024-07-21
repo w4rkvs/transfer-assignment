@@ -4,3 +4,5 @@
 - easy to collaborate with others
 
 # Weaknesses
+
+- can be complicated to solve merge conflicts
