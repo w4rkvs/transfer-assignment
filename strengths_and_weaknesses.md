@@ -6,3 +6,4 @@
 # Weaknesses
 
 - can be complicated to solve merge conflicts
+- does not work perfect with large files
